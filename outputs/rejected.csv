@@ -1,0 +1,6 @@
+rank,resume,score,tfidf_similarity,must_have_coverage,years_experience,matched_skills,missing_must_have,keyword_stuffing,status
+6,liam_oconnor_python_excel.docx,0.56,0.1067,0.6667,2.5,"excel, git, numpy, pandas, python",sql,False,Rejected
+7,priya_patel_sql_excel.txt,0.5069,0.0944,0.6667,3.0,"excel, power bi, sql, tableau",python,False,Rejected
+8,julian_vance_data_scientist.docx,0.4924,0.0362,0.6667,5.0,"aws, docker, git, machine learning, python, scikit-learn, sql",excel,False,Rejected
+9,carlos_ramirez_web_developer.txt,0.1546,0.0185,0.0,4.0,"docker, git","python, sql, excel",False,Rejected
+10,sophie_dubois_marketing.txt,0.1032,0.013,0.0,4.0,,"python, sql, excel",False,Rejected

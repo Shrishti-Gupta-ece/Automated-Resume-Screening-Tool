@@ -1,0 +1,5 @@
+rank,resume,score,tfidf_similarity,must_have_coverage,years_experience,matched_skills,missing_must_have,keyword_stuffing,status
+1,aarav_sharma_data_analyst.txt,0.7955,0.1818,1.0,4.0,"excel, git, numpy, pandas, power bi, python, scikit-learn, sql",,False,Shortlisted
+2,elena_rostova_data_analyst.docx,0.7869,0.1478,1.0,3.5,"excel, git, numpy, pandas, power bi, python, sql",,False,Shortlisted
+3,marcus_chen_data_analyst.txt,0.7859,0.1435,1.0,3.0,"excel, git, numpy, pandas, power bi, python, sql",,False,Shortlisted
+5,ananya_iyer_fresher.txt,0.682,0.1279,1.0,0.0,"excel, git, numpy, pandas, power bi, python, sql",,False,Shortlisted
