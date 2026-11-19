@@ -1,0 +1,30 @@
+ANANYA IYER
+San Jose, CA | ananya.iyer.grad@example.com | (555) 789-0123 | github.com/ananya-iyer
+
+OBJECTIVE
+Motivated and detail-oriented recent graduate with a Bachelor's degree in Computer Science seeking an entry-level Data Analyst position. Solid foundational knowledge of Python, SQL, Excel, and Pandas developed through academic coursework, capstone projects, and a 3-month summer internship.
+
+EDUCATION
+Bachelor of Science in Computer Science
+San Jose State University, CA | Graduated: May 2024
+GPA: 3.8/4.0
+Relevant Coursework: Database Management Systems, Data Analysis with Python, Statistics and Probability, Applied Linear Algebra.
+
+TECHNICAL SKILLS
+- Programming: Python, SQL
+- Data Analysis Libraries: Pandas, NumPy, Matplotlib
+- Business Intelligence & Spreadsheets: Microsoft Excel, Power BI (Foundations)
+- Version Control: Git, GitHub
+
+ACADEMIC & INTERNSHIP EXPERIENCE
+Data Analytics Intern | TechStart Analytics | San Jose, CA
+June 2023 – August 2023 (3 months)
+- Assisted data team in writing SQL queries to pull customer feedback surveys.
+- Preprocessed survey responses in Python utilizing Pandas for text categorization.
+- Created summary charts and tables in Microsoft Excel for presentation to senior mentors.
+
+PROJECTS
+E-Commerce Sales Analysis Dashboard (Academic Capstone) | Python, SQL, Power BI, Git
+- Wrote SQL scripts to clean and aggregate 100,000+ transaction records.
+- Conducted exploratory data analysis using Python (Pandas) to detect seasonal purchasing spikes.
+- Visualized findings via an interactive Power BI dashboard and tracked project milestones with Git.

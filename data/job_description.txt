@@ -1,0 +1,24 @@
+Job Title: Data Analyst
+Department: Analytics & Business Intelligence
+Experience: Minimum 2 years of experience
+
+Job Overview:
+We are looking for an analytical and detail-oriented Data Analyst to join our team. In this role, you will analyze large datasets, design actionable reports, and help stakeholders make data-driven decisions.
+
+Key Responsibilities:
+- Extract, clean, and analyze complex datasets from relational databases.
+- Develop, maintain, and automate recurring reports and dashboards.
+- Collaborate with business teams to translate requirements into analytical insights.
+- Perform exploratory data analysis and communicate findings effectively to stakeholders.
+
+Required Skills:
+- Python: Proficient in writing scripts for data extraction, manipulation, and analysis.
+- SQL: Strong experience writing complex queries, joins, aggregations, and CTEs.
+- Excel: Advanced knowledge of pivot tables, formulas, modeling, and data analysis.
+- Experience: Minimum 2 years of professional experience in data or business analysis.
+
+Preferred / Plus Skills:
+- Power BI: Experience creating interactive dashboards and visualizations is a plus.
+- Pandas: Practical knowledge of the Pandas library for data cleaning and manipulation is a plus.
+- Git: Experience with Git version control and collaborative workflows is a plus.
+- Strong problem-solving, critical thinking, and written/verbal communication skills.

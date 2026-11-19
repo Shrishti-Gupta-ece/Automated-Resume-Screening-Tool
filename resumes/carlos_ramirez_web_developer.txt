@@ -1,0 +1,24 @@
+CARLOS RAMIREZ
+Miami, FL | carlos.ramirez.dev@example.com | (555) 901-2345 | github.com/carlosramirez-dev
+
+PROFESSIONAL SUMMARY
+Dynamic Full Stack Web Developer with 4 years of experience building scalable, responsive, and robust web applications. High proficiency in modern JavaScript/TypeScript ecosystems including React, Next.js, Node.js, and Express. Adept with document databases like MongoDB and CSS frameworks like Tailwind CSS.
+
+SKILLS
+- Front-End: JavaScript (ES6+), TypeScript, React, Next.js, Redux, HTML5, CSS3, Tailwind CSS
+- Back-End: Node.js, Express, RESTful APIs, GraphQL
+- Databases: MongoDB, Mongoose, Redis
+- DevOps & Tools: Git, GitHub, Docker, Webpack, Postman, Vercel
+
+EXPERIENCE
+Full Stack Developer | WebForge Studios | Miami, FL
+April 2020 – Present (4 years)
+- Designed and built responsive client-side user interfaces using React, Next.js, and Tailwind CSS.
+- Developed scalable backend services and microservices with Node.js and Express.
+- Designed schemas and query mechanisms for NoSQL databases utilizing MongoDB.
+- Integrated third-party payment gateways (Stripe) and authentication flows (OAuth, JWT).
+- Utilized Git for daily branching, pull requests, and continuous integration deployments.
+
+EDUCATION
+Bachelor of Science in Web Design & Software Development
+Florida International University | 2016 – 2020

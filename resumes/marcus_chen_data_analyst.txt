@@ -1,0 +1,28 @@
+MARCUS CHEN
+Austin, TX | marcus.chen.analyst@example.com | (555) 456-7890 | github.com/mchen-analytics
+
+SUMMARY
+Data Analyst with 3 years of commercial experience translating complex enterprise datasets into actionable insights. Expert in writing efficient SQL queries, programming in Python (Pandas/NumPy) for automated data extraction and transformation, and building interactive visual reports in Power BI and Excel. Experienced in version control with Git within agile teams.
+
+CORE SKILLS
+- Core Tech: Python, SQL, Excel, Power BI, Pandas, Git
+- Database Systems: PostgreSQL, Snowflake, Microsoft SQL Server
+- Spreadsheet Modeling: Advanced Excel (VLOOKUP, XLOOKUP, Pivot Tables, Power Pivot)
+- Analysis Methods: Predictive Trend Analysis, Cohort Segmentation, Data Hygiene, Root-Cause Analysis
+
+EXPERIENCE
+Data Analyst | E-Commerce Direct | Austin, TX
+March 2023 – Present (2+ years)
+- Queried large-scale customer transaction databases using SQL to track sales conversions, customer retention, and cart abandonment.
+- Built reusable Python ETL scripts with Pandas to clean and consolidate messy API exports from multiple marketplace channels.
+- Deployed and maintained 8 production Power BI dashboards tracking order fulfillment metrics and sales performance.
+- Maintained code repositories using Git for analytics scripts, automated reports, and database migrations.
+
+Data Operations Associate | OmniRetail Solutions | Dallas, TX
+June 2021 – February 2023 (1.5+ years)
+- Handled daily inventory reporting using Microsoft Excel advanced functions and automated macros.
+- Executed ad-hoc SQL queries to troubleshoot stock discrepancies across regional warehouses.
+- Collaborated with business managers to evaluate promotional discount impacts.
+
+EDUCATION
+B.S. in Economics, Minor in Data Science | University of Texas at Austin (2017 – 2021)

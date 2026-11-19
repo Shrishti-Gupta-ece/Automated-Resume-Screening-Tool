@@ -1,0 +1,29 @@
+VIKRAM MALHOTRA
+Email: vikram.malhotra.keywords@example.com | Phone: (555) 111-2222 | Seattle, WA
+
+DATA ANALYST | PYTHON | SQL | EXCEL | POWER BI | PANDAS | GIT
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2 years of experience. Python Python Python SQL SQL SQL Excel Excel Excel Power BI Power BI Power BI Pandas Pandas Pandas Git Git Git. Highly skilled in Python, SQL, Excel, Power BI, Pandas, Git. Passionate about Python programming, SQL databases, Excel spreadsheets, Power BI reporting, Pandas dataframe manipulations, and Git repository version control.
+
+TECHNICAL SKILLS & KEYWORDS
+Python, SQL, Excel, Power BI, Pandas, Git, Python, SQL, Excel, Power BI, Pandas, Git,
+Python, SQL, Excel, Power BI, Pandas, Git, Python, SQL, Excel, Power BI, Pandas, Git,
+Python, SQL, Excel, Power BI, Pandas, Git, Python, SQL, Excel, Power BI, Pandas, Git,
+Python, SQL, Excel, Power BI, Pandas, Git, Python, SQL, Excel, Power BI, Pandas, Git,
+Python, SQL, Excel, Power BI, Pandas, Git, Python, SQL, Excel, Power BI, Pandas, Git,
+Python, SQL, Excel, Power BI, Pandas, Git, Python, SQL, Excel, Power BI, Pandas, Git.
+
+WORK EXPERIENCE
+Data Analyst | Keyword Analytics LLC | Seattle, WA
+January 2022 – January 2024 (2 years)
+- Used Python to write Python code for Python data scripts.
+- Executed SQL queries in SQL database using SQL joins and SQL aggregations.
+- Formatted Excel spreadsheets with Excel formulas, Excel VLOOKUP, and Excel Pivot Tables.
+- Built Power BI dashboards using Power BI visuals and Power BI DAX expressions.
+- Used Pandas for Pandas dataframes, Pandas data cleaning, and Pandas manipulation.
+- Pushed Git commits with Git add, Git commit, Git push, and Git branch workflows.
+- Python SQL Excel Power BI Pandas Git repeated daily for maximum analytical efficiency.
+
+EDUCATION
+B.S. in Data Analytics | Python SQL Excel University (2018 - 2022)

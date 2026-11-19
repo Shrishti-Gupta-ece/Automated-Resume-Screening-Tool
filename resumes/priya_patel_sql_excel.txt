@@ -1,0 +1,24 @@
+PRIYA PATEL
+Email: priya.patel.reports@example.com | Phone: (555) 567-8901 | Atlanta, GA
+
+PROFESSIONAL SUMMARY
+Business & Reporting Analyst with 3 years of experience specializing in SQL querying, Excel data modeling, and Power BI visualization. Proven track record of consolidating operational metrics and presenting executive summaries to business leaders. Currently expanding technical skillset into automated scripting.
+
+TECHNICAL SKILLS
+- Databases & Querying: SQL (PostgreSQL, Oracle DB, SQL Server)
+- Spreadsheets: Microsoft Excel (VLOOKUP, XLOOKUP, Nested IF, Pivot Tables, Power Query)
+- Business Intelligence: Power BI, Tableau Desktop
+- Other Tools: JIRA, MS PowerPoint, Sharepoint, SAP
+
+PROFESSIONAL EXPERIENCE
+Reporting Analyst | Logistics Hub International | Atlanta, GA
+August 2021 – Present (3+ years)
+- Executed complex SQL queries to extract shipment tracking data, carrier metrics, and regional transit times.
+- Built comprehensive Excel operational workbooks using Pivot Tables, complex formulas, and conditional formatting.
+- Designed executive Power BI dashboards displaying key shipping performance indicators and SLA adherence.
+- Collaborated with business managers to identify operational bottlenecks and recommend process improvements.
+- Standardized monthly reporting packages distributed to executive stakeholders.
+
+EDUCATION
+Bachelor of Business Administration (BBA) in Information Systems
+Georgia State University | Graduated 2021
