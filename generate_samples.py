@@ -59,29 +59,29 @@ def generate_resumes():
     aarav_content = """
 AARAV SHARMA
 Email: aarav.sharma.analytics@example.com | Phone: +1 (555) 234-5678 | Location: Chicago, IL
-LinkedIn: linkedin.com/in/aaravsharma-analytics | GitHub: github.com/aaravsharma-data
+LinkedIn: linkedin.com/in/aaravsharma-analytics | Portfolio: github.com/aaravsharma-data
 
 PROFESSIONAL SUMMARY
-Results-driven Data Analyst with 4 years of experience extracting, transforming, and interpreting data to drive strategic business decisions. Proven expertise in SQL database querying, Python scripting with Pandas for ETL and exploratory analysis, and advanced Excel modeling. Experienced in delivering executive dashboards using Power BI and maintaining collaborative codebase using Git.
+Results-driven Data Analyst with 4 years of experience extracting, transforming, and interpreting data to drive strategic business decisions. Proven expertise in relational database querying using SQL, Python scripting with Pandas for ETL and exploratory analysis, and advanced Excel modeling. Experienced in delivering executive dashboards using Power BI and maintaining collaborative codebases using Git.
 
 SKILLS
-- Programming & Databases: Python, SQL (PostgreSQL, MySQL, T-SQL)
+- Programming & Databases: Python, SQL (PostgreSQL, MySQL)
 - Data Libraries & Tools: Pandas, NumPy, Scikit-learn
 - BI & Visualization: Power BI, Microsoft Excel (Power Query, Pivot Tables, Advanced Formulas, VBA)
-- Tools & Workflows: Git, GitHub, JIRA, Agile/Scrum
+- Tools & Workflows: Git, JIRA, Agile/Scrum
 - Analytical Techniques: Exploratory Data Analysis (EDA), Statistical Modeling, Cohort Analysis, A/B Testing
 
 PROFESSIONAL EXPERIENCE
 Senior Data Analyst | FinTech Solutions Inc. | Chicago, IL
 June 2022 – Present (2+ years)
-- Developed and maintained automated data pipelines using Python (Pandas) and SQL, reducing weekly reporting cycles by 35%.
+- Developed and maintained automated data pipelines using Python (Pandas) and database feeds, reducing weekly reporting cycles by 35%.
 - Wrote optimized SQL queries across complex relational databases exceeding 5M+ transaction records.
 - Created interactive Power BI dashboards tracking business KPIs, revenue projections, and customer churn metrics.
 - Utilized Git for version control across analytical scripts and shared data repositories.
 
 Junior Data Analyst | RetailIQ Analytics | Columbus, OH
 July 2020 – May 2022 (2 years)
-- Conducted deep-dive customer purchase behavior analysis using advanced Excel and SQL.
+- Conducted deep-dive customer purchase behavior analysis using advanced Excel and relational data modeling.
 - Formulated automated Excel reporting templates with Pivot Tables and Power Query, saving 10 team hours per week.
 - Assisted engineering team in Python data cleaning scripts to ingest vendor catalog records.
 
@@ -91,7 +91,7 @@ University of Illinois at Urbana-Champaign | 2016 – 2020
 
 CERTIFICATIONS
 - Microsoft Certified: Power BI Data Analyst Associate
-- SQL and Relational Database Specialist Certification
+- Database Administration and Query Specialist Certification
 """
     create_txt_resume(resumes_dir / "aarav_sharma_data_analyst.txt", aarav_content)
 
