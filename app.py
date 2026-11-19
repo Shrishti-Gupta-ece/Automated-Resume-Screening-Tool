@@ -155,7 +155,7 @@ st.markdown("---")
 # -----------------------------------------------------------------------------
 # Screening Execution
 # -----------------------------------------------------------------------------
-screen_button = st.button("🚀 Screen Resumes", type="primary", use_container_width=True)
+screen_button = st.button("🚀 Screen Resumes", type="primary", width="stretch")
 
 if screen_button:
     if not jd_text.strip():
@@ -270,7 +270,7 @@ if "results_df" in st.session_state:
         .encode(x="threshold:Q")
     )
 
-    st.altair_chart(chart + threshold_line, use_container_width=True)
+    st.altair_chart(chart + threshold_line, width="stretch")
 
     # -------------------------------------------------------------
     # Ranked Table
@@ -288,7 +288,7 @@ if "results_df" in st.session_state:
 
     st.dataframe(
         table_display,
-        use_container_width=True,
+        width="stretch",
         column_config={
             "rank": st.column_config.NumberColumn("Rank", width="small"),
             "resume": st.column_config.TextColumn("Candidate Resume", width="medium"),
