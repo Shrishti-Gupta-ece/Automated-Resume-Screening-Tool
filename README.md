@@ -366,3 +366,11 @@ See the full checklist in [docs/ROADMAP.md](docs/ROADMAP.md).
 ## Demo Video
 
 [Watch the demo video](images/web_interface/dashboard.mp4)
+
+# Author
+
+**Shrishti Gupta**
+- LinkedIn: https://www.linkedin.com/in/shrishti-gupta-630209294
+- GitHub: https://github.com/Shrishti-Gupta-ece
+
+Thanks to Mr. Umesh Yadav, Founder of IIP (Indian Institute of Placement), and the IIP team for their guidance during this project.
