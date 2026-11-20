@@ -8,11 +8,42 @@ venv/
 .venv/
 env/
 ENV/
+env.bak/
+venv.bak/
+
+# Environment and sensitive configuration files
+.env
+.env.*
+!.env.example
 
 # OS-specific files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+desktop.ini
 
-# IDE & Editor files
+# IDE, editor, and workspace configurations
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# Testing, coverage, and cache directories
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Streamlit local runtime configurations
+.streamlit/secrets.toml
+
+# Temporary logs and dump files
+*.log
+tmp/
+temp/
