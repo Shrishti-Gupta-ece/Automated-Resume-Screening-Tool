@@ -345,3 +345,24 @@ This project demonstrates core competencies across data engineering, natural lan
 ![Roadmap](images/08_roadmap.png)
 
 See the full checklist in [docs/ROADMAP.md](docs/ROADMAP.md).
+
+## Screenshots
+
+### Web Dashboard
+![Dashboard](images/web_interface/dashboard.png)
+
+### Ranking Table
+![Ranking Table](images/web_interface/ranking_table.png)
+
+### Ranking Output
+![Ranking](images/web_interface/ranking.png)
+
+### Shortlisted Candidates
+![Shortlisted](images/web_interface/shortlisted.png)
+
+### GitHub Repository
+![GitHub Screenshot](images/github_screenshots/github_screenshot.png)
+
+## Demo Video
+
+[Watch the demo video](images/web_interface/dashboard.mp4)
