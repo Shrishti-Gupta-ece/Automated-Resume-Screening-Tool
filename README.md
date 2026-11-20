@@ -340,3 +340,8 @@ This project demonstrates core competencies across data engineering, natural lan
 3. Applied Text Retrieval: Computing TF-IDF matrices with n-gram parameterization and cosine similarity calculations.
 4. Adversarial Safeguards: Designing heuristic rules to detect keyword stuffing attempts in automated screening workflows.
 5. Interactive Web Development: Building a production-ready Streamlit interface with Altair charts, session state handling, and CSV export capabilities.
+## Project Roadmap
+
+![Roadmap](images/08_roadmap.png)
+
+See the full checklist in [docs/ROADMAP.md](docs/ROADMAP.md).
